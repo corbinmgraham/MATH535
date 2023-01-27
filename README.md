@@ -1,2 +1,3 @@
-# MATH535
-MATH 535 @ ISU
+# MATH 535 @ ISU
+
+Collection of Homework Assignments and Projects.
